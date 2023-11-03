@@ -1,18 +1,19 @@
-![«Жизнь – это игра, и мы все игроки, но не все знают правила.»](https://avatars.dzeninfra.ru/get-zen_doc/4776500/pub_61c8101058b20e52d293463a_61c8137d95db9f294a7758f7/scale_1200)
-### Hi there 👋, Меня зовут Сергей
-> «Жизнь – это игра, и мы все игроки, но не все знают правила.»
+<div align="center">
+<img src="https://github.com/Codwizer/Codwizer/blob/main/279670412-5e0ce0fb-c544-4f8c-a307-5849165746d0.jpg" width="25%" align="right" />
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Roboto&weight=600&size=30&pause=1000&center=true&vCenter=true&random=true&width=550&height=60&lines=%D0%9F%D1%80%D0%B8%D0%B2%D0%B5%D1%82.+%D0%BF%D1%80%D0%B8%D0%B2%D0%B5%D1%82.;%D0%9F%D1%80%D0%B8%D1%8F%D1%82%D0%BD%D0%BE+%D1%82%D0%B5%D0%B1%D1%8F+%D0%B2%D0%B8%D0%B4%D0%B5%D1%82%D1%8C+%D1%82%D1%83%D1%82.;%D0%AD%D1%82%D0%BE+%D0%BC%D0%BE%D0%B9+github+%D0%BF%D1%80%D0%BE%D1%84%D0%B8%D0%BB%D1%8C." alt="Typing SVG" /></a>
+<pre>
+    💼 Back-end dev • system administrator
+    💻 System programming languages • DevOps 
+    📖 Software architecture • Distributed systems
+    🎮 Music • Games • Anime • Code
+    🐾 Muffin 🐰 • Cake & Cookie🐤🐥
+</pre>
+<br><br>
+<img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" height="40" />
+<br><br><br>
 
-Ну, я обычный парень, который любит программирование и аниме. 
-Сам по себе скромный человек. Люблю спортом заниматся.
+[![](https://img.shields.io/badge/telegram-26A5E4)](https://t.me/dev_codwiz)
+[![](https://img.shields.io/badge/vk-0077FF)](https://vk.com/codwiz)
 
-Skills: python, java, kotlin, c, c++, rude, rust, go, Pascal, js
-
-
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Codwizer)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/telegram.svg' alt='telegram' height='40'>](https://t.me/dev_codwiz)  
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=Codwizer)](https://github.com/ryo-ma/github-profile-trophy)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Codwizer)](https://github.com/anuraghazra/github-readme-stats)
-
-![GitHub metrics](https://metrics.lecoq.io/Codwizer)  
+</div>
 
