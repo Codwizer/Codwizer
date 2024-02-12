@@ -21,5 +21,8 @@
   <summary>Poke</summary>
 Why did you poke?
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Codwizer&show_icons=true&theme=tokyonight&border_radius=10&hide_border=true&hide_title=false&langs_count=100&layout=compact)](https://github.com/Codwizer)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=Codwizer&count_private=true&show_icons=true&theme=tokyonight&border_radius=10&hide_border=true&hide_title=true)](https://github.com/Codwizer)
+
 </div>
 
